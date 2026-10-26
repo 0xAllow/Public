@@ -2,4 +2,4 @@
 
 Focused on cybersecurity, building secure solutions, and exploring innovative approaches to digital security.
 
-*text* Securing innovation. Protecting the future.
+*Securing innovation. Protecting the future.*
